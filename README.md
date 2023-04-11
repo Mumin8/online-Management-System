@@ -47,3 +47,5 @@ Operations completed for the frontend:
 
 LANGUAGES :
 		Javascript, html, css
+
+Platform: Nodejs
