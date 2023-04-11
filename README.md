@@ -43,3 +43,7 @@ About the front:
 Operations completed for the frontend:
 		so far only the get operation has been completed for the front end part of the 
 		application. 
+
+
+LANGUAGES :
+		Javascript, html, css
